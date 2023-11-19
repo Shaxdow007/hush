@@ -1,0 +1,49 @@
+Figma Design :
+https://www.figma.com/file/Zu5Yzjlzmhys8lynJrm9q1/Untitled?type=design&node-id=5-97&mode=design&t=RkLBR8kZpE4RvHyq-0
+
+LiveWebesite :
+https://caddyflow-webflow-agency-hush.webflow.io/
+
+Font : 
+Manrope Font
+
+  @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap');
+
+font-family: 'Manrope', sans-serif;
+
+Size :
+parag : 16px and fontW : medium lineH : 32
+heading h1 : bold 96px lineH : 110.4px
+heading h2 : extraBold 60px lineH: 78px
+heading icons h4: bold 22px lineH: 44px 
+
+btnPrimary :
+ borderR : 40px
+medium 18px lineH: 24px
+
+btnSecondary : 
+borderR : 32px
+colorText : F4F4F4 64%
+colorBorder : F4F4F4 16%
+medium 18px lineH : 22px
+
+links :
+medium 18px lineH : 27px
+
+colors :
+-- whiteColor : #F4F4F4;
+-- white40 : rgba(244,244,244,40%);
+-- linerDarkBlue : 76 133 250 100% , 35 107 254 100% 
+-- darkBlue32 :  30 30 32 32%
+-- darkBlue : #1E1E20
+-- bgDark : #121313
+
+
+menu : 
+
+active : color white with 3 bars
+noactive : color white 50% with 2bars full width 3 one width 50%
+
+
+hover on the brandImg :
+change the color to darkBlue

@@ -1,0 +1,27 @@
+/* font */
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  scroll-behavior: smooth;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Manrope", sans-serif;
+}
+.home {
+  min-height: calc(100vh - 76px);
+}
+.primaryBtn {
+  background: linear-gradient(rgb(76, 133, 250), rgb(35, 107, 254));
+  box-shadow: 0 0 60px rgb(76, 133, 250), 0 0 90px rgba(35, 107, 254, 0.5);
+}
+.primaryBtn:hover {
+  background: linear-gradient(rgb(35, 107, 254), rgb(76, 133, 250));
+}
+.join-box {
+  background: linear-gradient(rgb(76, 133, 250), rgb(35, 107, 254));
+}
